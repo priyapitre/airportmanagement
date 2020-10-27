@@ -1,0 +1,24 @@
+End Product: 
+- Login page for admin: flights + employee 
+
+Employee 
+- Add form: Details, jobtype
+- Edit form: cant edit SSN- edit everything above
+- View all employees and personal details 
+- Salary change for jobtype
+- Serves dropdown for Passport and SSN
+- Delete Employee
+
+Flight Flow: 
+- Add flights 
+- Edit flights 
+- display flight
+
+
+Passenger: no login required
+Ticket Booking 
+- Add passenger -> Book flight
+- View Ticket + print 
+- Cancel ticket
+
+
