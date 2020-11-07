@@ -1,8 +1,5 @@
 #Airport Management System 
 
-#Team Members: 
-111803125: Siddharth Shirore
-111803132: Priya Pitre
 
 - Manages Employees, Flights, and Passengers. 
 - Has a Login functionality
